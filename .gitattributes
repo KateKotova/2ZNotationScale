@@ -1,3 +1,4 @@
 *.h linguist-language=C++
 *.dfm linguist-language=C++
 *.obj linguist-language=C++
+*.rtf linguist-language=C++
